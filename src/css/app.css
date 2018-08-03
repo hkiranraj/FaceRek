@@ -1,0 +1,12 @@
+
+.fi-profile-img{
+    max-width: 100px;
+}
+.testimonial-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  display: block;
+}
+.testimonial-group > .row > .col-xs-4 {
+  display: inline-block;
+}
